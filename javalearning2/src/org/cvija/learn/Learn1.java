@@ -1,9 +1,11 @@
 package org.cvija.learn;
 
+import java8Learning.xx.Toto;
+
 public class Learn1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Toto t = new Toto("me toto", "youtoto");
 
 	}
 

@@ -1,0 +1,3 @@
+[submodule "JavaLearningModule"]
+	path = JavaLearningModule
+	url = https://github.com/mcvijano/java8Learning.git
